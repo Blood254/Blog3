@@ -20,3 +20,9 @@ nav li.active, nav li.active:before {
 .carousel a:hover {
  background: rgba(255, 255, 255, 0.2);
 }
+.custom-1 {
+  font-family: 'PT Sans', sans-serif;
+}
+.custom-2 {
+  font-family: 'Pacifico', cursive;
+}
